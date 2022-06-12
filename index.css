@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 :root {
     --bg-color: rgba(30,30,30);
@@ -6,6 +6,9 @@
 }
 
 body {
+    width: 100vw;
+    height: 100vh;
+
     margin: 0;
     padding: 0;
 }
@@ -22,8 +25,8 @@ body {
 
 #main h1 {
     text-align: center;
-    font-size: 2rem;
-    font-family: "Roboto";
+    font-size: 3rem;
+    font-family: "Montserrat";
 
     color: var(--fg-color);
 }
