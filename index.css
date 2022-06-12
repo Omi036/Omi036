@@ -30,10 +30,13 @@ body {
 
     color: var(--fg-color);
 
-    animation: display 1.2s ease-in-out .1s 1 forwards forwards;
+    transform: translate(0, -100vh);
+    animation: displayText 1.2s ease-in-out .1s 1 forwards;
+    
 }
 
-@keyframes display {
+
+@keyframes displayText {
     0%{ transform: translate(0, -100vh) };
     100% { transform: translate(0, 0)};
 }
