@@ -29,4 +29,11 @@ body {
     font-family: "Montserrat";
 
     color: var(--fg-color);
+
+    animation: display 1.2s ease-in-out .1s 1 forwards forwards;
+}
+
+@keyframes display {
+    0%{ transform: translate(0, -100vh) };
+    100% { transform: translate(0, 0)};
 }
