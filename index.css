@@ -31,7 +31,7 @@ body {
     color: var(--fg-color);
 
     transform: translate(0, -100vh);
-    animation: displayText 1.2s ease-in-out .1s 1 forwards;
+    animation: displayText 1.2s cubic-bezier(.47,0,.13,.98) .1s 1 forwards;
     
 }
 
