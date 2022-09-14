@@ -10,6 +10,6 @@ I actually live in Spain,but not for too long.
 
 - How to use Raspberry PI's and deploy scripts in there.
 - How to use MySql and mix it with other projetcs
-- Learn web development
-- Learn React
-- **Learn Brainfuck**
+- **~~Learn web development~~**
+- **~~Learn React~~**
+- **~~Learn Brainfuck~~**
