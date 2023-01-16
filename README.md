@@ -3,8 +3,6 @@
 ## 🙍‍♂️ About me
 I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 years.
 
-<br/>
-
 ## 💻 Things I code with 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,13 +17,11 @@ I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 ye
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
     <img src="https://media.discordapp.net/attachments/1064596920133230642/1064664655492030504/Mesa_de_trabajo_1.png">
-</p><br/>
+</p>
   
 ## 🌟 Things I master overall:
 - 💻 Developing Desktop Applications with Electron and Vanilla.js
 - 🌐 Developing Web Dashboards with React, Mantine, and Websockets
-
-<br/>
 
 ## ⭐ Things I'm mastering:
 - ⚡️ Developing APIs with express.js
@@ -33,21 +29,15 @@ I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 ye
 - 🔌 Syncing almost any Node app with Websockets
 - ❌ However, I hardly ever post any project to Github
 
-<br/>
-
 ##  💖 Things I want to learn:
 - 🐧 Understand the Linux Kernel
 - 🤝 Contribute to Open Source and to the Linux Community
-
-<br/>
 
 ## 💡 Some facts about me:
 - 🕓 I'm currently working on my website
 - 🎨 A blank page is an empty canvas for me
 - 🎓 Codecademy is my fav platform for learning
 - 💊 The first tutorial series I watched were [these](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
-
-<br/>
 
 ## 📞 Contact
 I'm not looking for any work or anything similar, but you can contact me anyway via these methods:
