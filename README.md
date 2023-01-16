@@ -27,7 +27,6 @@ I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 ye
 - ⚡️ Developing APIs with express.js
 - 🍃 Get to know Mongodb to the fullest
 - 🔌 Syncing almost any Node app with Websockets
-- ❌ However, I hardly ever post any project to Github
 
 ##  💖 Things I want to learn:
 - 🐧 Understand the Linux Kernel
@@ -38,6 +37,7 @@ I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 ye
 - 🎨 A blank page is an empty canvas for me
 - 🎓 Codecademy is my fav platform for learning
 - 💊 The first tutorial series I watched were [these](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
+- ❌ However, I hardly ever post any project to Github
 
 ## 📞 Contact
 I'm not looking for any work or anything similar, but you can contact me anyway via these methods:
