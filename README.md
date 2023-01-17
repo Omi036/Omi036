@@ -1,5 +1,7 @@
 ![Banner](https://media.discordapp.net/attachments/1064596920133230642/1064650803404611584/banner3.png)
-![Banner](https://media.discordapp.net/attachments/1064596920133230642/1064653563776729088/banner4.png)
+
+<h1 align="center">Hi! I'm Omi</h1>
+
 ## 🙍‍♂️ About me
 I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 years.
 
