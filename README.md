@@ -3,7 +3,10 @@
 ![Banner](https://media.discordapp.net/attachments/1064596920133230642/1064650803404611584/banner3.png)
 
 ## 🙍‍♂️ About me
-I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 years.
+I'm a self-taught developer in Spain focused on Computer Science for ~3 years.  
+I was surrounded by computers my whole life, until I discovered the amazing world of programming at the age of 11 years old,
+making batch scripts in windows. Time later, I decided to learn how to "really" program... and ended up on python becoming my main hobby!
+All my friends find it stressful, however, I like having to develop work-around and invest time to solve a problem or a script error.
 
 ## 💻 Things I code with 
 <p align="center">
@@ -34,8 +37,12 @@ I'm a self-taught developer in Spain focused on Computer Science for ~2 || ~3 ye
 - 🐧 Understand the Linux Kernel
 - 🤝 Contribute to Open Source and to the Linux Community
 
+##  💢 Things I hate:
+- 📱 Developing apps & websites for mobile phones
+- 🎮 Game development in general 
+
 ## 💡 Some facts about me:
-- 🕓 I'm currently working on my website
+- 🕓 I'm currently working on my biggest project ever
 - 🎨 A blank page is an empty canvas for me
 - 🎓 Codecademy is my fav platform for learning
 - 💊 The first tutorial series I watched were [these](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
