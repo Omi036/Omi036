@@ -51,4 +51,14 @@ All my friends find it stressful, however, I like having to develop work-around 
 ## 📞 Contact
 I'm not looking for any work or anything similar, but you can contact me anyway via these methods:
 
-<p align="center"><a href="https://discord.com/invite/ZAeKEjXBWT" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="mailto:alvarogm273@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+<p align="center">
+    <a href="https://discord.com/invite/ZAeKEjXBWT" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a> 
+    <a href="mailto:alvarogm273@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="mailto:omible@protonmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/PROTONMAIL-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white">
+    </a>
+</p>
