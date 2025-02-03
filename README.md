@@ -27,10 +27,10 @@ All my friends find it stressful, however, I like having to develop work-around 
 ## 🌟 Things I master overall:
 - 💻 Developing Desktop Applications with Electron and Vanilla.js
 - 🌐 Developing Web Dashboards with React, Mantine, and Websockets
+  ⚡️ Developing APIs with express.js
 
 ## ⭐ Things I'm mastering:
-- ⚡️ Developing APIs with express.js
-- 🍃 Get to know Mongodb to the fullest
+- 🎮 Minecraft Modding with Java
 - 🔌 Syncing almost any Node app with Websockets
 
 ##  💖 Things I want to learn:
@@ -39,10 +39,8 @@ All my friends find it stressful, however, I like having to develop work-around 
 
 ##  💢 Things I hate:
 - 📱 Developing apps & websites for mobile phones
-- 🎮 Game development in general 
 
 ## 💡 Some facts about me:
-- 🕓 I'm currently working on my biggest project ever
 - 🎨 A blank page is an empty canvas for me
 - 🎓 Codecademy is my fav platform for learning
 - 💊 The first tutorial series I watched were [these](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
